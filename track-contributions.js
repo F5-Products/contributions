@@ -23,6 +23,7 @@ const CONFIG = {
   username:   'TheRefreshCNFT',
   repos:      [
     'nullclaw/nullclaw',
+    'nullclaw/nullhub',
   ],
   stateFile:  path.join(__dirname, 'contributions-state.json'),
   outputFile: path.join(__dirname, 'CONTRIBUTIONS.md'),
