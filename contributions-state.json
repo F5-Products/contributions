@@ -52,7 +52,89 @@
       "merged_at": "2026-03-13T00:17:51Z",
       "merged_by": "DonPrus",
       "release": "v2026.3.12"
+    },
+    "ian6868/fre5hietest#1": {
+      "key": "ian6868/fre5hietest#1",
+      "repo": "ian6868/fre5hietest",
+      "number": 1,
+      "type": "pr",
+      "title": "F5 Animated Test",
+      "url": "https://github.com/ian6868/fre5hietest/pull/1",
+      "created_at": "2023-03-12T12:56:09Z",
+      "outcome": "rejected",
+      "status": "Closed without merge",
+      "fixing_pr": null,
+      "merged_at": null,
+      "merged_by": null,
+      "release": null
+    },
+    "nftstorage/nft.storage#2604": {
+      "key": "nftstorage/nft.storage#2604",
+      "repo": "nftstorage/nft.storage",
+      "number": 2604,
+      "type": "issue",
+      "title": "How do i upload files and folders with the new version?",
+      "url": "https://github.com/nftstorage/nft.storage/issues/2604",
+      "created_at": "2024-04-25T12:53:20Z",
+      "outcome": "accepted",
+      "status": "Fixed (closed as completed)",
+      "fixing_pr": null,
+      "merged_at": null,
+      "merged_by": null,
+      "release": null
+    },
+    "nullclaw/nullhub#21": {
+      "key": "nullclaw/nullhub#21",
+      "repo": "nullclaw/nullhub",
+      "number": 21,
+      "type": "pr",
+      "title": "fix(server): Windows socket read/write fails with GetLastError(87)",
+      "url": "https://github.com/nullclaw/nullhub/pull/21",
+      "created_at": "2026-03-25T16:55:06Z",
+      "outcome": "accepted",
+      "status": "Merged by @DonPrus",
+      "fixing_pr": null,
+      "merged_at": "2026-04-05T20:19:41Z",
+      "merged_by": "DonPrus",
+      "release": null
+    },
+    "nullclaw/nullboiler#3": {
+      "key": "nullclaw/nullboiler#3",
+      "repo": "nullclaw/nullboiler",
+      "number": 3,
+      "type": "pr",
+      "title": "fix: make migration 004 ALTER TABLE statements idempotent",
+      "url": "https://github.com/nullclaw/nullboiler/pull/3",
+      "created_at": "2026-03-27T12:25:43Z",
+      "outcome": "accepted",
+      "status": "Merged by @DonPrus",
+      "fixing_pr": null,
+      "merged_at": "2026-04-05T20:24:15Z",
+      "merged_by": "DonPrus",
+      "release": null
+    },
+    "nullclaw/nullboiler#4": {
+      "key": "nullclaw/nullboiler#4",
+      "repo": "nullclaw/nullboiler",
+      "number": 4,
+      "type": "issue",
+      "title": "Migration system re-runs all migrations on every startup (no version tracking)",
+      "url": "https://github.com/nullclaw/nullboiler/issues/4",
+      "created_at": "2026-03-27T12:36:39Z",
+      "outcome": "pending",
+      "status": "Open",
+      "fixing_pr": null,
+      "merged_at": null,
+      "merged_by": null,
+      "release": null
     }
   },
-  "last_run": "2026-04-05T20:51:34.637Z"
+  "last_run": "2026-04-05T21:06:39.915Z",
+  "_discoveredRepos": [
+    "ian6868/fre5hietest",
+    "nftstorage/nft.storage",
+    "nullclaw/nullboiler",
+    "nullclaw/nullclaw",
+    "nullclaw/nullhub"
+  ]
 }
