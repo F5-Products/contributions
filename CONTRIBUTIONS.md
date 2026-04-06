@@ -1,6 +1,6 @@
 # @TheRefreshCNFT — Open Source Contributions
 
-> Tracked automatically · Last updated: **Apr 5, 2026, 05:06 PM EDT**
+> Tracked automatically · Last updated: **Apr 6, 2026, 10:51 AM EDT**
 
 ---
 
@@ -52,5 +52,5 @@
 
 ---
 
-*Repos with contributions: [`ian6868/fre5hietest`](https://github.com/ian6868/fre5hietest) · [`nftstorage/nft.storage`](https://github.com/nftstorage/nft.storage) · [`nullclaw/nullboiler`](https://github.com/nullclaw/nullboiler) · [`nullclaw/nullclaw`](https://github.com/nullclaw/nullclaw) · [`nullclaw/nullhub`](https://github.com/nullclaw/nullhub)*  
-*Scans all of GitHub for issues/PRs by @TheRefreshCNFT · no repo list needed*
+*Repos tracked: [`nullclaw/nullclaw`](https://github.com/nullclaw/nullclaw) · [`nullclaw/nullhub`](https://github.com/nullclaw/nullhub)*  
+*To add a repo, edit `track-contributions.js` → `CONFIG.repos`*
